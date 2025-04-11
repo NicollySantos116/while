@@ -3,3 +3,5 @@ while (numero <= 10){
     console.log("contagem", numero);
     numero ++;
 }
+
+//teste
